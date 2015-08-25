@@ -1,0 +1,1 @@
+<?php/*IMPORTANT: 注意检查文件字符集是否为UTF-8*/ini_set('display_errors',1);session_start();?>

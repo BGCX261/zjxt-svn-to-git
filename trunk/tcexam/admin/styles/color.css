@@ -1,0 +1,12 @@
+.colorbutton {
+	text-align:center;
+}
+
+span.colorselector {
+	cursor:pointer;
+	display:inline-block;
+	width:9px;
+	height:9px;
+	border:1px solid #888;
+	margin-right:9px;
+}
